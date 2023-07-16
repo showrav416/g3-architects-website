@@ -13,6 +13,12 @@
   border: 0;
 }
 
+.section-title {
+  font-size: 2.8rem;
+  color: #131313;
+  font-weight: 700;
+}
+
 .text-light-grey {
   color: #727272;
 }
